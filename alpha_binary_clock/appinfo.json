@@ -1,0 +1,30 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "TMunz",
+    "longName": "Alpha Binary",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/pebble-binary-clock-logo.png",
+                "menuIcon": true,
+                "name": "IMAGE_LOGO",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Alpha Binary",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "7031a5cc-1337-411e-a101-de2ec8e110de",
+    "versionLabel": "1.1",
+    "watchapp": {
+        "watchface": true
+    }
+}
