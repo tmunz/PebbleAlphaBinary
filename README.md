@@ -32,7 +32,7 @@ Year (y): 1 + 2 + 3 + 4 = 15
 
 ###Easy code customization
 
-If you want change for example the color of the dots, that can be easily customized in the start of the code along other options:
+If you want change for example the color of the dots or want to have them as circles, that can be easily customized in the start of the code along other options:
 
 BACKGROUND_DARK true //true: black background; false: white background
 
