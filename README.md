@@ -1,7 +1,7 @@
 # PebbleAlphaBinary
 Binary Watchface for Pebble
 
-![examplepicture](https://1drv.ms/i/s!AlPcYjw4g51KlZ4gEwI0Qmv0qoEITg)
+![examplepicture](./PebbleAlphaBinaryExample.jpg)
 
 The picture above shows the watchface of the Alpha Binary Clock. The orange dots display the time, the grey borders the date.
 The time can be simply calculated by summing up their values, which are here written on the right next to the picture.
